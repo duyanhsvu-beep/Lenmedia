@@ -25,7 +25,7 @@ import ProjectCard from "./components/ProjectCard";
 import ProjectShowcaseModal from "./components/ProjectShowcaseModal";
 import { playSubDrop, playLaserSweep } from "./components/SoundSystem";
 import portrait from "./images/lennert_portrait_1780485998066.jpg";
-import hero from "./images/festival_hero_1780486016944.jpg";
+import heroplaatje from "./images/festival_hero_1780486016944.jpg";
 
 export default function App() {
   // Navigation active scroll state
@@ -192,7 +192,7 @@ export default function App() {
             
             {/* Ambient festival background image */}
             <img
-              src=hero
+              src=heroplaatje
               alt="Cinematic Stage Lights background"
               className="w-full h-full object-cover filter brightness-30 contrast-125 saturate-110 opacity-70 transition-all duration-1000"
               referrerPolicy="no-referrer"
