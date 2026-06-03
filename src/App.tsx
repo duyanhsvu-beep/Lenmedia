@@ -25,7 +25,7 @@ import ProjectCard from "./components/ProjectCard";
 import ProjectShowcaseModal from "./components/ProjectShowcaseModal";
 import { playSubDrop, playLaserSweep } from "./components/SoundSystem";
 import portrait from "./images/lennert_portrait_1780485998066.jpg";
-import heroplaatje from "./images/festival_hero_1780486016944.jpg";
+import heroplaatje from "./images/festival_hero_1780486016944.png";
 
 export default function App() {
   // Navigation active scroll state
