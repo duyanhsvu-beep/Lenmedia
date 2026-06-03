@@ -192,7 +192,7 @@ export default function App() {
             
             {/* Ambient festival background image */}
             <img
-              src=heroplaatje
+              src={heroplaatje}
               alt="Cinematic Stage Lights background"
               className="w-full h-full object-cover filter brightness-30 contrast-125 saturate-110 opacity-70 transition-all duration-1000"
               referrerPolicy="no-referrer"
