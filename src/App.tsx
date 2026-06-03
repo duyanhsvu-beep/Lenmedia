@@ -333,7 +333,7 @@ export default function App() {
               <div className="absolute inset-0 bg-transparent z-10 pointer-events-none group-hover:bg-cyan-500/5 transition-all duration-500" />
 
               <img
-                src="/src/assets/images/lennert_portrait_1780485998066.jpg"
+                src="/src/images/lennert_portrait_1780485998066.jpg"
                 alt="Lennert - LenMedia professional videographer"
                 className="w-full h-full object-cover filter brightness-95 group-hover:brightness-105 saturate-110 contrast-105 transition-transform duration-700 hover:scale-102"
                 referrerPolicy="no-referrer"
