@@ -1,0 +1,6 @@
+{
+  "name": "LenMedia Portfolio",
+  "description": "Premium videography and creative media portfolio website for LenMedia, specializing in high-energy Hardstyle, EDM, and festival video productions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
